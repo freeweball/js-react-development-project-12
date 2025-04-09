@@ -5,11 +5,6 @@ import Chat from './pages/chat';
 import Error404 from './pages/error404';
 
 function App() {
-  const routes = {
-    'main': '/',
-    'login': '/login',
-  }
-
   return (
     <BrowserRouter>
       <Routes>
