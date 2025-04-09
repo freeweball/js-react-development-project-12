@@ -66,3 +66,15 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+
+
+
+.form__login {
+  display: flex;
+  flex-direction: column;
+}
+
+.form__login input {
+  margin: 10px;
+}
